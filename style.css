@@ -1,0 +1,56 @@
+ h2
+ {
+     color:blue;
+     font-size:35px;
+     text-align:center;
+     margin:0px;
+ }
+ h1
+ {
+     color:red;
+     font-size:15px;
+     text-align:center;
+     margin:10px;
+ }
+ form
+ {
+    border-radius: 65px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin: 0px 364px;
+ }
+ label
+ {
+     display:block;
+     font-size:20px;
+     font-weight:bold;
+     text-align:center;
+ }
+ input
+ { 
+    width: 100%;
+    padding: 12px;
+    /* margin: 8px 0; */
+    display: block;
+    margin: 0 auto;
+    /* border: 1px solid #ccc; */
+    border-radius: 16px;
+    box-sizing: border-box;
+ }
+ input[type=submit]
+ {
+        display: block;
+     width :28%;
+     background-color:#4caf50;
+     color:white;
+     font-size:16px;
+     font-weight:bold;
+     padding:14px;
+    margin: 0 auto;
+     border: none;
+     border-radius: 16px;
+     box-sizing: border-box;
+     cursor:pointer;
+ }
+ input[type=submit]:hover
+ {background-color:45a049;}

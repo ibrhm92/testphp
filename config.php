@@ -1,6 +1,6 @@
 <?php
 $sn ="localhost";
-$un ="ibrhm92";
+$un ="ibrhm";
 $pass = "1992";
 $dbname = "testdb";
 
